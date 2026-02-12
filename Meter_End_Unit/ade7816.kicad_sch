@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "572401da-84d0-48cb-b235-90dbc3e31de3")
+	(uuid "798ea202-8e3a-47ef-badd-002450b7cbd9")
 	(paper "A4")
 	(lib_symbols
 		(symbol "ADE7816ACPZ:ADE7816ACPZ"
@@ -5376,7 +5376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADE7816ACPZ:QFN50P600X600X80-41N"
+		(property "Footprint" "adefootprint:QFN50P600X600X80-41N"
 			(at 187.96 100.33 0)
 			(effects
 				(font
