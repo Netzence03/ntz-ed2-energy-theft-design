@@ -4587,12 +4587,20 @@
 		(uuid "fd302561-902c-4fd3-b9f8-94162aec9fd1")
 	)
 	(no_connect
+		(at 173.99 109.22)
+		(uuid "2198b74c-0b6e-4e8d-b6cd-2baabb7c1cae")
+	)
+	(no_connect
 		(at 96.52 83.82)
 		(uuid "4a693945-d7e4-4d80-a0b2-fd83994c245f")
 	)
 	(no_connect
 		(at 96.52 76.2)
 		(uuid "6d0eefc2-a16a-4d45-b525-1fbc3bbbc7a9")
+	)
+	(no_connect
+		(at 173.99 106.68)
+		(uuid "75c14b2d-2191-4efd-b95d-e14e9f5e1141")
 	)
 	(no_connect
 		(at 96.52 73.66)
@@ -4763,16 +4771,6 @@
 			(type default)
 		)
 		(uuid "211fe42b-99ae-493c-a167-8975470e37d6")
-	)
-	(wire
-		(pts
-			(xy 229.87 36.83) (xy 234.95 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "241be80b-2b24-4c69-816b-3f3366f35227")
 	)
 	(wire
 		(pts
@@ -5426,16 +5424,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 147.32) (xy 262.89 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a920b8cb-2e2a-492b-af86-f3ae8ee1e417")
-	)
-	(wire
-		(pts
 			(xy 92.71 138.43) (xy 92.71 146.05)
 		)
 		(stroke
@@ -5706,16 +5694,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 143.51) (xy 267.97 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5212dcf-4080-41ce-b5c0-7a193936666b")
-	)
-	(wire
-		(pts
 			(xy 30.48 60.96) (xy 30.48 63.5)
 		)
 		(stroke
@@ -5964,16 +5942,6 @@
 		)
 		(uuid "84e6333a-28d9-40a4-8925-942a67243d85")
 	)
-	(label "MCB_CTRL"
-		(at 173.99 106.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8b80aff1-4efd-40bc-adb9-485ef5153355")
-	)
 	(label "ESP_SIM_TX"
 		(at 234.95 39.37 0)
 		(effects
@@ -6014,16 +5982,6 @@
 		)
 		(uuid "a2568e69-7819-44d4-abc1-486b0062ce62")
 	)
-	(label "ESP_SIM_STA"
-		(at 234.95 36.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a4420fea-b1ba-428c-8be9-64406e78f85c")
-	)
 	(label "RES"
 		(at 173.99 96.52 180)
 		(effects
@@ -6033,16 +5991,6 @@
 			(justify right bottom)
 		)
 		(uuid "ab1b53f4-c7e4-40f9-94ef-3f54365c7f24")
-	)
-	(label "ESP_SIM_STA"
-		(at 173.99 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b18078f6-a855-4cea-8d38-268398c4a53d")
 	)
 	(label "MOSI{slash}SDA"
 		(at 262.89 102.87 0)
@@ -6254,26 +6202,6 @@
 		)
 		(uuid "f91de588-08bf-4f43-b0c2-0abac67017ba")
 	)
-	(label "MCB_CTRL_D"
-		(at 267.97 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fa81b6d2-6110-4e35-9818-982519b1d007")
-	)
-	(label "MCB_CTRL_D"
-		(at 173.99 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "faebdbe7-ae48-4d59-985e-7adc08621525")
-	)
 	(label "LORA_RX"
 		(at 204.47 111.76 0)
 		(effects
@@ -6284,15 +6212,25 @@
 		)
 		(uuid "fb686900-e6bf-4d70-ae73-a0042ffc60eb")
 	)
-	(label "MCB_CTRL"
-		(at 267.97 147.32 0)
+	(global_label "ESP_PWRKEY"
+		(shape bidirectional)
+		(at 173.99 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "fc89860e-c0ef-4a68-be0a-27cd99f406c4")
+		(uuid "b05972c3-b91f-4a3c-ac27-ca830ba5f013")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.99 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "VBUS"
 		(shape input)
@@ -10389,16 +10327,6 @@
 				(justify right)
 			)
 		)
-		(pin "ESP_SIM_STA" bidirectional
-			(at 229.87 36.83 0)
-			(uuid "e367cb5c-893c-432b-8ef3-29c4e739ec9e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "ESP_SIM_TX" bidirectional
 			(at 229.87 39.37 0)
 			(uuid "72a097bf-3366-4112-9ede-e303136c5850")
@@ -10514,68 +10442,6 @@
 			(project "Prod_Pole_End_Unit"
 				(path "/6f618807-d67d-4ead-90e4-cf8a7a59b747/5ab1b14f-4aa4-492d-8e7b-cd8ac008f654"
 					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 241.3 139.7)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c5fd0e05-4954-45dd-ad5d-d11e1e89e34c")
-		(property "Sheetname" "MCB_TD"
-			(at 241.3 138.9884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 241.3 155.5246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "MCB_CTRL" input
-			(at 262.89 147.32 0)
-			(uuid "ae400b5c-6ac8-4fde-86ca-8772b3a8121d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "MCB_CTRL_D" input
-			(at 262.89 143.51 0)
-			(uuid "cbd5001d-191e-4cbb-a0cb-350f502305d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Prod_Pole_End_Unit"
-				(path "/6f618807-d67d-4ead-90e4-cf8a7a59b747/5ab1b14f-4aa4-492d-8e7b-cd8ac008f654"
-					(page "9")
 				)
 			)
 		)
