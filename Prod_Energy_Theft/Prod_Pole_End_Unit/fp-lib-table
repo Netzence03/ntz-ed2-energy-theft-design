@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "theftdetection")(type "KiCad")(uri "C:/Users/Netzence ED2/Documents/KiCad/theftdetection.pretty")(options "")(descr ""))
+)

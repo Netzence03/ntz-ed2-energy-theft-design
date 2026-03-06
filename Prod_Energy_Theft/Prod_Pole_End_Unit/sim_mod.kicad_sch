@@ -7056,16 +7056,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 95.25) (xy 237.49 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63459fd4-4d98-4f76-b5c0-33959c0cf34e")
-	)
-	(wire
-		(pts
 			(xy 212.09 194.31) (xy 212.09 196.85)
 		)
 		(stroke
@@ -7433,6 +7423,16 @@
 			(type default)
 		)
 		(uuid "a2cc7868-ec9a-4f55-8fab-56ac1950c9e6")
+	)
+	(wire
+		(pts
+			(xy 204.47 95.25) (xy 237.49 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66f94c5-af38-446d-a715-b9fdf00f5f75")
 	)
 	(wire
 		(pts
@@ -8831,7 +8831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SIM7600G:IC_SIM7600G"
+		(property "Footprint" "theftdetection:IC_SIM7600G"
 			(at 176.53 90.17 0)
 			(effects
 				(font
@@ -10066,7 +10066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 128.27 37.1348 0)
 			(effects
 				(font
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SIM7600G:IC_SIM7600G"
+		(property "Footprint" "theftdetection:IC_SIM7600G"
 			(at 350.52 57.15 0)
 			(effects
 				(font
@@ -11125,7 +11125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLM21PG300SN1D:BEADC2012X105N"
+		(property "Footprint" "theftdetection:BEADC2012X105N"
 			(at 240.03 40.64 0)
 			(effects
 				(font
@@ -11472,7 +11472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "U.FL-R-SMT_01_:HRS_U.FL-R-SMT_01_"
+		(property "Footprint" "theftdetection:HRS_U.FL-R-SMT_01_"
 			(at 105.41 87.63 0)
 			(effects
 				(font

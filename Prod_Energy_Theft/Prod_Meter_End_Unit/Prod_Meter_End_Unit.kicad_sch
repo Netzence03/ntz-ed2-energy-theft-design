@@ -3452,6 +3452,12 @@
 		(uuid "6bcf0a7e-8f4e-4156-bc59-6286b2995342")
 	)
 	(junction
+		(at 101.6 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73e79229-169d-45b9-a067-b783fa6d2fab")
+	)
+	(junction
 		(at 49.53 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3510,6 +3516,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b11232c1-bdb4-4033-ab8e-b2c1b75ae550")
+	)
+	(junction
+		(at 41.91 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d341fecf-3f53-4ac0-8d42-52c10f63f6ae")
 	)
 	(junction
 		(at 236.22 33.02)
@@ -3761,6 +3773,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 97.79) (xy 101.6 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e8467a7-d05c-4f3c-80b6-410cfe2f375a")
+	)
+	(wire
+		(pts
 			(xy 184.15 85.09) (xy 184.15 88.9)
 		)
 		(stroke
@@ -3921,7 +3943,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 152.4) (xy 49.53 152.4)
+			(xy 36.83 152.4) (xy 41.91 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3998,6 +4020,16 @@
 			(type default)
 		)
 		(uuid "5ddb77e4-dcc8-44e2-b4ed-d86a535696d4")
+	)
+	(wire
+		(pts
+			(xy 41.91 152.4) (xy 49.53 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f273f83-5e2e-4b40-808f-d389f789fdbb")
 	)
 	(wire
 		(pts
@@ -4228,6 +4260,16 @@
 			(type default)
 		)
 		(uuid "8a7f5dba-be26-4978-816c-274966f5eee3")
+	)
+	(wire
+		(pts
+			(xy 41.91 144.78) (xy 41.91 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f333b9b-848f-43da-8f99-c56777f1fefb")
 	)
 	(wire
 		(pts
@@ -4621,6 +4663,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 104.14) (xy 106.68 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52fd1a4-5c4b-4d7c-b193-91e35a199a19")
+	)
+	(wire
+		(pts
 			(xy 252.73 88.9) (xy 257.81 88.9)
 		)
 		(stroke
@@ -4731,7 +4783,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 104.14) (xy 106.68 104.14)
+			(xy 95.25 104.14) (xy 101.6 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5636,6 +5688,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 41.91 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c5b78e4-d1c0-41b3-96a0-749f1873de29")
+		(property "Reference" "#FLG08"
+			(at 41.91 142.875 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 41.91 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 41.91 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "769cea2f-6415-48a5-a5a7-48e7d0f172fb")
+		)
+		(instances
+			(project "Prod_Meter_End_Unit"
+				(path "/5bca34b5-540d-46d7-a7e3-e92e31ef4c0b"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 193.04 106.68 0)
 		(unit 1)
@@ -6345,7 +6463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SS-52400-002:BELFUSE_SS-52400-002"
+		(property "Footprint" "theftdetection:BELFUSE_SS-52400-002"
 			(at 63.5 48.26 0)
 			(effects
 				(font
@@ -6876,6 +6994,72 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
+		(at 101.6 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b0be2a5-ef42-42f7-a6a3-4764bb20320e")
+		(property "Reference" "#FLG09"
+			(at 101.6 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 101.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5afdfe07-9d5b-4ae9-81de-572bc2d47d7b")
+		)
+		(instances
+			(project "Prod_Meter_End_Unit"
+				(path "/5bca34b5-540d-46d7-a7e3-e92e31ef4c0b"
+					(reference "#FLG09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
 		(at 102.87 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7237,7 +7421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MP1584EN-LF-Z:SOIC127P600X170-9N"
+		(property "Footprint" "theftdetection:SOIC127P600X170-9N"
 			(at 196.85 83.82 0)
 			(effects
 				(font
@@ -7720,7 +7904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 91.1352 162.56 0)
 			(effects
 				(font
@@ -8126,7 +8310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS7A2033PDBVR:SOT95P280X145-5N"
+		(property "Footprint" "theftdetection:SOT95P280X145-5N"
 			(at 68.58 109.22 0)
 			(effects
 				(font

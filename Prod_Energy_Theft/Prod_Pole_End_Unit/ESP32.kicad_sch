@@ -4326,107 +4326,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:PWR_FLAG"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#FLG"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PWR_FLAG"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Special symbol for telling ERC where power comes from"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "flag power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PWR_FLAG_0_0"
-				(pin power_out line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PWR_FLAG_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(rectangle
 		(start 17.78 17.78)
@@ -6506,7 +6405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints.kicad_mod:T491A"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 115.8748 153.67 0)
 			(effects
 				(font
@@ -6763,7 +6662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "U.FL-R-SMT_01_:HRS_U.FL-R-SMT_01_"
+		(property "Footprint" "theftdetection:HRS_U.FL-R-SMT_01_"
 			(at 34.29 156.21 0)
 			(effects
 				(font
@@ -7092,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "E32-433T20S:MODULE_E32-433T20S"
+		(property "Footprint" "theftdetection:MODULE_E32-433T20S"
 			(at 76.2 151.13 0)
 			(effects
 				(font
@@ -7352,7 +7251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:LEDC2012X120N"
+		(property "Footprint" "theftdetection:LEDC2012X120N"
 			(at 135.89 177.47 0)
 			(effects
 				(font
@@ -7681,7 +7580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3.3V"
+		(property "Value" "+3.3V"
 			(at 142.24 78.74 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7724,72 +7623,6 @@
 			(project "Prod_Pole_End_Unit"
 				(path "/6f618807-d67d-4ead-90e4-cf8a7a59b747/5ab1b14f-4aa4-492d-8e7b-cd8ac008f654"
 					(reference "#PWR0119")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 142.24 83.82 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5a1c8438-92aa-4fee-9179-64fc8f32ae85")
-		(property "Reference" "#FLG06"
-			(at 144.145 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 145.796 78.994 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 142.24 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 142.24 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5903435c-6cff-4a47-a2cf-4f877f6103c2")
-		)
-		(instances
-			(project "Prod_Pole_End_Unit"
-				(path "/6f618807-d67d-4ead-90e4-cf8a7a59b747/5ab1b14f-4aa4-492d-8e7b-cd8ac008f654"
-					(reference "#FLG06")
 					(unit 1)
 				)
 			)
@@ -7891,7 +7724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints.kicad_mod:T491A"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 68.58 25.7048 0)
 			(effects
 				(font
@@ -9036,7 +8869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
+		(property "Footprint" "theftdetection:IC_CP2102N-A01-GQFN20"
 			(at 115.57 100.33 0)
 			(effects
 				(font
@@ -9227,7 +9060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:LEDC2012X120N"
+		(property "Footprint" "theftdetection:LEDC2012X120N"
 			(at 135.89 187.63 0)
 			(effects
 				(font

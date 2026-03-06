@@ -5774,7 +5774,7 @@
 		)
 		(uuid "00991df0-3b76-4c96-9bba-3e9c492b2552")
 	)
-	(label "MCB_CTRL_D"
+	(label "MCB_RESET"
 		(at 270.51 147.32 0)
 		(effects
 			(font
@@ -5814,7 +5814,7 @@
 		)
 		(uuid "2b359b77-8df3-4321-986f-20c5e57fd30e")
 	)
-	(label "MCB_CTRL"
+	(label "MCB_SET"
 		(at 270.51 151.13 0)
 		(effects
 			(font
@@ -5924,7 +5924,7 @@
 		)
 		(uuid "750d8c55-2ee0-4c7f-8beb-c121d1716815")
 	)
-	(label "MCB_CTRL_D"
+	(label "MCB_RESET"
 		(at 176.53 113.03 180)
 		(effects
 			(font
@@ -5994,7 +5994,7 @@
 		)
 		(uuid "a5e8bf8a-5446-4ad2-9000-fb5952daedd0")
 	)
-	(label "MCB_CTRL"
+	(label "MCB_SET"
 		(at 176.53 110.49 180)
 		(effects
 			(font
@@ -6438,7 +6438,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints.kicad_mod:T491A"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 118.4148 157.48 0)
 			(effects
 				(font
@@ -6695,7 +6695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "U.FL-R-SMT_01_:HRS_U.FL-R-SMT_01_"
+		(property "Footprint" "theftdetection:HRS_U.FL-R-SMT_01_"
 			(at 36.83 160.02 0)
 			(effects
 				(font
@@ -7024,7 +7024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "E32-433T20S:MODULE_E32-433T20S"
+		(property "Footprint" "theftdetection:MODULE_E32-433T20S"
 			(at 78.74 154.94 0)
 			(effects
 				(font
@@ -7284,7 +7284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:LEDC2012X120N"
+		(property "Footprint" "theftdetection:LEDC2012X120N"
 			(at 138.43 181.28 0)
 			(effects
 				(font
@@ -7613,7 +7613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3.3V"
+		(property "Value" "+3.3V"
 			(at 144.78 82.55 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7823,7 +7823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints.kicad_mod:T491A"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 71.12 29.5148 0)
 			(effects
 				(font
@@ -8968,7 +8968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
+		(property "Footprint" "theftdetection:IC_CP2102N-A01-GQFN20"
 			(at 118.11 104.14 0)
 			(effects
 				(font
@@ -9159,7 +9159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:LEDC2012X120N"
+		(property "Footprint" "theftdetection:LEDC2012X120N"
 			(at 138.43 191.44 0)
 			(effects
 				(font
@@ -10229,7 +10229,7 @@
 				(justify left top)
 			)
 		)
-		(pin "MCB_CTRL" input
+		(pin "MCB_SET" input
 			(at 265.43 151.13 0)
 			(uuid "c53f7cbd-ef7d-4076-bbcb-0e91697d99c2")
 			(effects
@@ -10239,7 +10239,7 @@
 				(justify right)
 			)
 		)
-		(pin "MCB_CTRL_D" input
+		(pin "MCB_RESET" input
 			(at 265.43 147.32 0)
 			(uuid "1abd0171-8df6-4d46-89c7-2eb56c25c346")
 			(effects
