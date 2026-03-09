@@ -134,7 +134,7 @@
         "max_error": 0.005,
         "min_clearance": 0.1,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.2,
+        "min_copper_edge_clearance": 0.12,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.35,
@@ -273,7 +273,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|863600|1041400|45b0b1fd-ba3f-4eab-8d67-ca839b79ff92|5afdfe07-9d5b-4ae9-81de-572bc2d47d7b|/5bca34b5-540d-46d7-a7e3-e92e31ef4c0b|/5bca34b5-540d-46d7-a7e3-e92e31ef4c0b|/5bca34b5-540d-46d7-a7e3-e92e31ef4c0b",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },

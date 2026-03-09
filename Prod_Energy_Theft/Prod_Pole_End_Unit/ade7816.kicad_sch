@@ -9557,7 +9557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3.3V_ADE"
 			(at 168.91 71.12 0)
 			(effects
 				(font
