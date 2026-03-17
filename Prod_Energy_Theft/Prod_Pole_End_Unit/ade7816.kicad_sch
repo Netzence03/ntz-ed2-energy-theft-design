@@ -4414,6 +4414,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 53.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dadd4df1-15aa-4dd7-af09-61ffa8678cc9")
 		)
@@ -4480,6 +4488,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4549,6 +4565,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 52.07 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "024eeb7f-eca5-44ee-b9b4-b4928d428450")
 		)
@@ -4614,6 +4638,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4683,6 +4715,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0441d1b0-99a2-4d54-b3d9-c91987d0d980")
 		)
@@ -4748,6 +4788,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4949,6 +4997,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "447758a8-15e5-411e-b10a-d36bc756b169")
 		)
@@ -5083,6 +5139,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 29.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41216626-53ec-468f-96a5-a1cc16672e18")
 		)
@@ -5148,6 +5212,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5216,6 +5288,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 245.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5348,6 +5428,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21A475KOQNNNE "
+			(at 213.36 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5548,6 +5636,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "ADE7816ACPZ "
+			(at 209.55 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "27"
 			(uuid "29ad4819-3eeb-40ab-b150-b9817cc81c03")
 		)
@@ -5732,6 +5828,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 60.96 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a18002af-c570-4625-890e-eb979679d644")
 		)
@@ -5799,6 +5903,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 247.65 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a05c498d-b1ea-4cb0-9edb-63cda6ac9daa")
 		)
@@ -5864,6 +5976,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 125.73 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5934,6 +6054,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 29.21 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dae9e35b-b3a8-45e5-9fad-0ce609f7165d")
 		)
@@ -6001,6 +6129,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B224KBCNNNC "
+			(at 201.93 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2b33e71-a50d-4ea5-912b-b25ef422a48c")
 		)
@@ -6066,6 +6202,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 172.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6201,6 +6345,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 101.6 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "551704a0-efc3-4005-b94b-589db1e2de4f")
 		)
@@ -6266,6 +6418,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 148.59 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6463,6 +6623,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6729,6 +6897,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 134.62 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f4aa88c-9fee-4537-b6a0-98ab0051fc21")
 		)
@@ -6863,6 +7039,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c10de91-49c8-4de3-b2f3-c98549415073")
 		)
@@ -6929,6 +7113,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 29.21 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7063,6 +7255,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 176.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7f0e093-2786-4940-b4fc-b1d4b03635ff")
 		)
@@ -7194,6 +7394,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B224KBCNNNC "
+			(at 231.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7527,6 +7735,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "28ebc7a3-8628-446c-aad2-bbf6688fbaf8")
 		)
@@ -7592,6 +7808,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 53.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7661,6 +7885,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21A106KOQNNNE "
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41124120-eae8-4ece-b336-9b940482f79d")
 		)
@@ -7727,6 +7959,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 60.96 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7862,6 +8102,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3ada9c7-d02d-457b-b32d-b46da1123278")
 		)
@@ -7992,6 +8240,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "GRM1885C1H200JA01D "
+			(at 248.92 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8126,6 +8382,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "163d0246-ed6d-484e-8a4c-e0ae6b14d117")
 		)
@@ -8192,6 +8456,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 134.62 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8394,6 +8666,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21A475KOQNNNE "
+			(at 247.65 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "06f3c828-456e-4e25-8b72-aa0144ee47fb")
 		)
@@ -8459,6 +8739,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 29.21 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8528,6 +8816,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "TSX-3225"
+			(at 257.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90230ed6-9c78-4208-8c86-7eeec967eebc")
 		)
@@ -8593,6 +8889,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8793,6 +9097,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 148.59 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ca4d4299-7c45-4c5b-b42b-311e7ed3a6ce")
 		)
@@ -8923,6 +9235,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "GRM1885C1H200JA01D "
+			(at 267.97 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9188,6 +9508,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 60.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "075c61a4-5f6c-4a66-ae0d-4bc6dc84d90b")
 		)
@@ -9253,6 +9581,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21A475KOQNNNE "
+			(at 184.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9322,6 +9658,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c15d989-dd15-40ec-896e-5b812430ec64")
 		)
@@ -9387,6 +9731,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9456,6 +9808,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 52.07 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "549ef6ef-27fe-4edb-909a-bf5a68cb7411")
 		)
@@ -9521,6 +9881,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9656,6 +10024,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B223KBCNNNC "
+			(at 76.2 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5604c61a-039d-4b52-9099-36c5f6746502")
 		)
@@ -9722,6 +10098,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "MKDS-1,5-2-5.08 "
+			(at 29.21 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9857,6 +10241,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 62.23 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b0a8239c-f837-482e-99b5-8ab729dbf95e")
 		)
@@ -9922,6 +10314,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710RL "
+			(at 53.34 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

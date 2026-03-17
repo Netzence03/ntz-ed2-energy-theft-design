@@ -1,5 +1,6 @@
 Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Part Number
-"1k3,1k4,10k3,10k4",4,R,,,,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-07XXXXL
+"1k3,1k4",2,R,,,,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-071KL
+"10k3,10k4",2,R,,,,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-0710KL
 "C1,C2,C8,C13,C35,C40",6,100nf,,,,Capacitor_SMD:C_0805_2012Metric,~,CL21B104KBCNNNC
 C3,1,100uf,,,,Capacitor_SMD:C_0805_2012Metric,~,EEE-FK1V101P
 "C5,C32",2,10uf,,,,Capacitor_SMD:C_0805_2012Metric,~,CL21A106KOQNNNE

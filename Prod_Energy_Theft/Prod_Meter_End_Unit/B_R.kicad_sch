@@ -1747,6 +1747,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 124.46 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ba27794c-ec90-4622-b040-dc9dd28e0230")
 		)
@@ -1815,6 +1823,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 138.43 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1954,6 +1970,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "BC817 "
+			(at 146.05 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -2161,6 +2185,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 99.06 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2ffe75f5-4a8b-43c8-aba7-5ced10e92043")
 		)
@@ -2227,6 +2259,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 124.46 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -2297,6 +2337,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B105KAFNNNE "
+			(at 143.51 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2543,6 +2591,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "USLPT2819DT2TR "
+			(at 154.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ccb16a42-01af-44a7-a504-e0de2d61677a")
 		)
@@ -2620,6 +2676,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "BC817 "
+			(at 146.05 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2802,6 +2866,14 @@
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "USLPT2819DT2TR "
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

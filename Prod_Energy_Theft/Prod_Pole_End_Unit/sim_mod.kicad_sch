@@ -8399,6 +8399,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0722RL "
+			(at 212.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8fb0e0e6-becf-43d8-8046-03499ed8a179")
 		)
@@ -8533,6 +8541,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 74.93 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7d37028-397a-471d-8220-03b964261920")
 		)
@@ -8601,6 +8617,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "TXS0108EPW "
+			(at 90.17 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "19"
@@ -8723,6 +8747,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0722RL "
+			(at 212.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8977,6 +9009,14 @@
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "SIM7600G "
+			(at 176.53 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "98"
@@ -9448,6 +9488,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "SF72S006 "
+			(at 331.47 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C1"
 			(uuid "30488440-6ca8-43a8-a513-fd82501b28ac")
 		)
@@ -9539,6 +9587,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B105KAFNNNE "
+			(at 248.92 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "95761af2-1f89-4a6c-a704-a55d5c1a0d51")
 		)
@@ -9607,6 +9663,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-074K7L "
+			(at 57.15 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "edf7be55-0972-47c0-9edc-1cb6074bb458")
 		)
@@ -9673,6 +9737,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "ESD9B5.0ST5G "
+			(at 80.01 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9746,6 +9818,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "USBLC6-2SC6 "
+			(at 290.83 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9959,6 +10039,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 142.24 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "353ddeb3-f1da-4485-bd70-05a3e56de654")
 		)
@@ -10091,6 +10179,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 124.46 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10280,6 +10376,14 @@
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "SIM7600G "
+			(at 350.52 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "98"
@@ -11016,6 +11120,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "EEE-FK1V101P "
+			(at 270.51 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7957adc7-d59d-4ac0-a1f8-9cc0cf379494")
 		)
@@ -11082,6 +11194,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0722RL "
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11231,6 +11351,14 @@
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "BLM21PG300SN1D "
+			(at 240.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11620,6 +11748,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "U.FL-R-SMT-1 "
+			(at 105.41 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "770d2169-949d-4cf1-bff6-b8baff77bb31")
 		)
@@ -11691,6 +11827,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 245.11 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11833,6 +11977,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "2N3904 "
+			(at 44.45 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6ae26c56-202d-4dca-ac31-942a0358ab60")
 		)
@@ -11907,6 +12059,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "USBLC6-2SC6 "
+			(at 290.83 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12053,6 +12213,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 237.49 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf2dbd7c-b8dc-4465-a59f-7d48685b6926")
 		)
@@ -12121,6 +12289,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B105KAFNNNE "
+			(at 257.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"

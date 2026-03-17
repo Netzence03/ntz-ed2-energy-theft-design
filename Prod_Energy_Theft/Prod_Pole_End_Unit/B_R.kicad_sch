@@ -1813,6 +1813,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 135.89 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cd9cf875-b691-494a-8a3c-c8505f7cb58b")
 		)
@@ -1992,6 +2000,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "USLPT2819DT2TR "
+			(at 123.19 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "437bd9f5-98c1-4e43-a87a-f0b1f1e1b676")
 		)
@@ -2066,6 +2082,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B105KAFNNNE "
+			(at 154.94 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2268,6 +2292,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9bb970a7-e653-44df-9b4e-cd936ca2f397")
 		)
@@ -2407,6 +2439,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "BC817 "
+			(at 157.48 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d8d5d79f-4baf-4942-9b11-02777c31bceb")
 		)
@@ -2544,6 +2584,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 110.49 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2724,6 +2772,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "USLPT2819DT2TR "
+			(at 166.37 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04f0e13a-d82f-4517-bc3c-494e72d520c4")
 		)
@@ -2803,6 +2859,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "BC817 "
+			(at 157.48 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e1d47dc9-0439-4203-8005-25881af1ab42")
 		)
@@ -2874,6 +2938,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 149.86 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

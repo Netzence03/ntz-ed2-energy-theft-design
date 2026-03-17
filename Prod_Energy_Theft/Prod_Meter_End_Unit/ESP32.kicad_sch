@@ -6395,6 +6395,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0739KL "
+			(at 33.02 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "76bf8c1a-f1d6-4bca-9d10-c768603e1a5d")
 		)
@@ -6463,6 +6471,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21A106KOQNNNE"
+			(at 119.38 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6654,6 +6670,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-07330RL"
+			(at 118.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cd98a502-8e90-4834-9575-04883fe9c5b5")
 		)
@@ -6843,6 +6867,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "U.FL-R-SMT-1 "
+			(at 36.83 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e0e1159-6592-41b1-8e0e-f6bdc51f964c")
 		)
@@ -6981,6 +7013,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0720KL "
+			(at 33.02 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -7180,6 +7220,14 @@
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "E32-433T20S "
+			(at 78.74 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -7445,6 +7493,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "LTST-C170GKT "
+			(at 125.73 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3dc57ebd-5a95-431f-97dc-25a9f2920565")
 		)
@@ -7577,6 +7633,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7783,6 +7847,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 132.08 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ceb1d972-5c96-402b-bb99-588c75ae4bdf")
 		)
@@ -7848,6 +7920,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21A475KOQNNNE "
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7917,6 +7997,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "ESP32-C6-MINI-1 "
+			(at 191.77 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8263,6 +8351,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 95.25 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "24cb91d3-5e40-44ab-b2cc-1573d9233c09")
 		)
@@ -8329,6 +8425,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-071KL "
+			(at 63.5 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8534,6 +8638,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-074K7L "
+			(at 218.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4aeb4eb5-d1ef-4e49-a53c-61ec1fc930ec")
 		)
@@ -8667,6 +8779,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B105KAFNNNE "
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8858,6 +8978,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 54.61 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d388607-5357-4ccc-9adf-f5deb4031a4d")
 		)
@@ -8993,6 +9121,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CP2102N-A02-GQFN20 "
+			(at 86.36 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -9303,6 +9439,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "LTST-C170GKT "
+			(at 125.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4a1cd20d-2ccf-4c71-b10c-19c927d41e1d")
 		)
@@ -9372,6 +9516,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21A106KOQNNNE"
+			(at 198.12 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9445,6 +9597,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "USBLC6-2SC6 "
+			(at 55.88 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -9663,6 +9823,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-074K7L "
+			(at 218.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66971932-254b-420c-b879-91936e7be002")
 		)
@@ -9798,6 +9966,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "CL21B104KBCNNNC "
+			(at 185.42 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10056,6 +10232,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "RC0805FR-07330RL"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8530bf79-9e16-426a-93e6-9b8c198976ea")
 		)
@@ -10178,6 +10362,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-0710KL "
+			(at 52.07 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
